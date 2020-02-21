@@ -7,5 +7,5 @@ using : python generator.py
 
 the emails will be saved in emails.txt
 
-buy a cup of coffee for me : 
-<a href="https://paypal.me/demlon"><img src="http://wcscwv.org/wp-content/uploads/2017/04/Donate-Button.png"></a>
+<p>buy a cup of coffee for me : </p></br>
+<a href="https://paypal.me/demlon"><img src="http://wcscwv.org/wp-content/uploads/2017/04/Donate-Button.png"></a></br>
